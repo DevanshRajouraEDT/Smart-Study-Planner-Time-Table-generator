@@ -43,12 +43,14 @@ Through this project, I practiced:
 
 ## Project Structure
 
+```bash
 smart-study-planner/
 │
 ├── main.py
 ├── study_plan.txt
 ├── README.md
 └── screenshots/
+```
 
 ---
 
@@ -59,12 +61,15 @@ smart-study-planner/
 3. Open the project folder
 4. Run the following command:
 
+```bash
 python main.py
+```
 
 ---
 
 ## Sample Output
 
+```text
 ===== Smart Study Planner =====
 
 Subject : Math
@@ -72,10 +77,11 @@ Priority : High
 Study Time : 6 to 8
 Break Time : 15 minutes
 
----
+-----------------------------------
 
 Motivational Quote of the Day:
 "Stay consistent and success will follow."
+```
 
 ---
 
