@@ -1,0 +1,13 @@
+===== Smart Study Timetable =====
+
+Subject : English
+Study Hours : 2
+Priority : Low
+-----------------------------------
+Subject : Maths
+Study Hours : 5
+Priority : High
+-----------------------------------
+
+Motivational Quote:
+Discipline is the key to success.
